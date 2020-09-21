@@ -35,16 +35,18 @@ Depending on the type of user(Administrator or client), the user is prompted to 
 
 Other than common syntax related bugs, one of the biggest bugs consisted in the quantity property of an item not being updated once the item was removed from the cart as you should see below.
 
-![Test Image 1]
+![Test Image 1] https://github.com/ampsii/Book-Store/blob/master/BugExample.png
 
-![Test Image 2]
+![Test Image 2] https://github.com/ampsii/Book-Store/blob/master/BugExample2.png
 
-![Test Image 3]
+![Test Image 3] https://github.com/ampsii/Book-Store/blob/master/BugExample3.png
+
+![Test Image 4] https://github.com/ampsii/Book-Store/blob/master/BugExample2.png
 
 ----------Design patterns-------
 
 Two design patterns were used in the creation of this small app,namely the factory pattern and the Arrange/Act/Assert pattern
 
-![Test image 4]
+![Test image 4] https://github.com/ampsii/Book-Store/blob/master/AAAPattern.png
 
 !Test Image 5]
